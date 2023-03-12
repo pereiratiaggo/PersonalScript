@@ -1,0 +1,15 @@
+Chocolatey for install basic aplications
+
+https://docs.chocolatey.org/en-us/choco/setup
+
+Basic
+
+choco install adobereader googlechrome firefox jre8 python3 microsoft-edge 7zip dotnetfx vlc teamviewer opera qbittorrent keepass k-litecodecpackfull spotify cccp handbrake gimp python2 notepadplusplus foxitreader sumatrapdf pdfcreator teamviewer9 imgburn revo-uninstaller windirstat classic-shell anydesk ditto lightshot traystatus chocolateygui choco install naps2 cobian-backup cpu-z hwmonitor hdtune treesizefree ghostscript.app powertoys crystaldiskinfo hwinfo gpu-z crystaldiskmark msiafterburner -y
+
+Extras #1
+
+choco install cygwin git vscode winscp putty xampp nodejs curl github-desktop virtualbox -y
+
+Extras #2
+
+choco install plexmediaserver synctrayzor authy-desktop resilio-sync-home mousewithoutborders -y
