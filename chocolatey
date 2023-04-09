@@ -6,7 +6,7 @@ Basic
 
 choco install adobereader googlechrome firefox jre8 python3 microsoft-edge 7zip dotnetfx vlc teamviewer opera qbittorrent keepass k-litecodecpackfull spotify cccp handbrake gimp python2 notepadplusplus foxitreader sumatrapdf pdfcreator imgburn revo-uninstaller windirstat classic-shell anydesk ditto lightshot traystatus chocolateygui naps2 cobian-backup cpu-z hwmonitor hdtune treesizefree ghostscript.app powertoys crystaldiskinfo hwinfo gpu-z crystaldiskmark msiafterburner discord
 
-Extras #2
+Extras #1
 
 choco install authy-desktop mousewithoutborders
 
