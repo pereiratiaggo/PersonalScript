@@ -4,7 +4,7 @@ https://docs.chocolatey.org/en-us/choco/setup
 
 Basic
 
-choco install revo-uninstaller chocolateygui 7zip lightshot ditto traystatus qbittorrent notepadplusplus dotnetfx jre8 python2 python3 googlechrome microsoft-edge opera firefox anydesk teamviewer pdfcreator naps2 ghostscript.app powertoys classic-shell windirstat treesizefree cpu-z hwmonitor hdtune crystaldiskinfo crystaldiskmark hwinfo gpu-z msiafterburner cobian-backup k-litecodecpackfull cccp vlc handbrake spotify keepass gimp sumatrapdf foxitreader adobereader imgburn discord
+choco install revo-uninstaller chocolateygui 7zip lightshot ditto traystatus qbittorrent notepadplusplus dotnetfx jre8 python2 python3 googlechrome microsoft-edge opera firefox anydesk teamviewer pdfcreator naps2 ghostscript.app powertoys open-shell windirstat treesizefree cpu-z hwmonitor hdtune crystaldiskinfo crystaldiskmark hwinfo speccy gpu-z msiafterburner cobian-backup k-litecodecpackfull cccp ffmpeg vlc handbrake spotify keepass gimp sumatrapdf foxitreader adobereader imgburn discord
 
 Extras #1
 
