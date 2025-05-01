@@ -2,23 +2,11 @@ Chocolatey for install basic aplications
 
 https://docs.chocolatey.org/en-us/choco/setup
 
-Basic
+Core
 
-choco install revo-uninstaller chocolateygui choco-upgrade-all-at-startup 7zip lightshot ditto traystatus qbittorrent notepadplusplus dotnetfx jre8 python2 python3 googlechrome microsoft-edge opera firefox anydesk teamviewer pdfcreator naps2 ghostscript.app powertoys open-shell windirstat treesizefree cpu-z hwmonitor hdtune crystaldiskinfo crystaldiskmark hwinfo speccy gpu-z msiafterburner cobian-backup k-litecodecpackfull cccp ffmpeg vlc handbrake spotify keepass keepass-langfiles keepass-plugin-keeanywhere gimp sumatrapdf pdfxchangeeditor foxitreader adobereader imgburn sdio
+choco install revo-uninstaller chocolateygui choco-upgrade-all-at-startup 7zip git curl python jre8 open-shell ghostscript.app sdio lightshot ditto traystatus dotnetfx k-litecodecpackfull ffmpeg cccp cloudflared vcredist2015 wget dotnet3.5
 
 
-Extras #1
+Normal
 
-choco install authy-desktop mousewithoutborders discord
-
-Extras #2
-
-choco install cygwin git vscode winscp putty nodejs curl github-desktop virtualbox
-
-Extras #3
-
-choco install plexmediaserver synctrayzor
-
-Extras #4
-
-choco install xampp resilio-sync-home
+choco install revo-uninstaller chocolateygui choco-upgrade-all-at-startup 7zip git curl python jre8 open-shell ghostscript.app sdio lightshot ditto traystatus dotnetfx k-litecodecpackfull ffmpeg cccp cloudflared vcredist2015 wget dotnet3.5 vlc notepadplusplus qbittorrent anydesk spotify handbrake kdenlive googlechrome microsoft-edge opera  firefox powertoys windirstat treesizefree cpu-z gpu-z hwmonitor hwinfo speccy hdtune crystaldiskinfo crystaldiskmark msiafterburner cobian-backup keepass keepass-langfiles keepass-plugin-keeanywhere pdfcreator naps2 sumatrapdf pdfxchangeeditor foxitreader adobereader imgburn gimp mousewithoutborders discord
