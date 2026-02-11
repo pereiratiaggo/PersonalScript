@@ -9,4 +9,10 @@ choco install revo-uninstaller chocolateygui choco-upgrade-all-at-startup 7zip g
 
 Normal
 
-choco install revo-uninstaller chocolateygui choco-upgrade-all-at-startup 7zip git curl python jre8 open-shell ghostscript.app sdio lightshot ditto traystatus dotnetfx k-litecodecpackfull ffmpeg cccp cloudflared vcredist2015 wget dotnet3.5 vlc notepadplusplus qbittorrent anydesk spotify handbrake kdenlive googlechrome microsoft-edge opera  firefox powertoys windirstat treesizefree cpu-z gpu-z hwmonitor hwinfo speccy hdtune crystaldiskinfo crystaldiskmark msiafterburner cobian-backup keepass keepass-langfiles keepass-plugin-keeanywhere pdfcreator naps2 sumatrapdf pdfxchangeeditor foxitreader adobereader imgburn gimp mousewithoutborders discord
+choco install chocolatey-core.extension chocolatey-compatibility.extension revo-uninstaller chocolateygui choco-upgrade-all-at-startup 7zip git curl python jre8 open-shell ghostscript.app sdio tailscale lightshot ditto traystatus dotnetfx k-litecodecpackfull ffmpeg cccp vcredist2015 wget dotnet3.5 vlc notepadplusplus qbittorrent anydesk rustdesk.install spotify handbrake kdenlive googlechrome microsoft-edge opera  firefox powertoys windirstat treesizefree cpu-z gpu-z hwmonitor hwinfo speccy hdtune crystaldiskinfo crystaldiskmark msiafterburner cobian-backup keepass keepass-langfiles keepass-plugin-keeanywhere pdfcreator naps2 sumatrapdf pdfxchangeeditor foxitreader adobereader imgburn gimp deskflow discord docker-desktop
+
+
+
+Extras
+
+choco install cloudflared
